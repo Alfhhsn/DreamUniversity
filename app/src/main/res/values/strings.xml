@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">DreamUniversity</string>
+
+    <string name="university_name">Nama Universitas</string>
+    <string name="description">Deskripsi</string>
+
+    <string name="about">About</string>
+    <string name="name">Aisyah Husna Alifah</string>
+    <string name="email">Aisyahusnalifah30@gmail.com</string>
+    <string name="aboutMe">I am an active third-year student majoring in Information Systems and Technology Education at Universitas Pendidikan Indonesia, who is active in various organizations in the field of communication and information. I am diligent in attending skills training and enthusiastic, open to learning new things and able to work well in teams and individually. able to work well in a team or individually. My interests and dedication are focused on UI/UX Design, Digital Product Development, and Project Management. I am eager to contribute and apply my skills to support the advancement of education technology</string>
+
+    <string name="tanggal_berdiri">Tanggal Berdiri</string>
+    <string-array name="data_tanggal">
+        <item>20 Oktober 1954</item>
+        <item>1 September 1963</item>
+        <item>2 Maret 1959</item>
+        <item>10 Nopember 1957</item>
+        <item>5 Januari 1963</item>
+        <item>16 Desember 1949</item>
+        <item>5 September 1987</item>
+        <item>1 Juni 1957</item>
+        <item>10 November 1954</item>
+        <item>9 January 1957</item>
+        <item>11 September 1957</item>
+        <item>1 Oktober 1962</item>
+        <item>23 September 1963</item>
+    </string-array>
+
+    <string name="alamat">Alamat</string>
+    <string-array name="data_alamat">
+        <item>Jalan Dr Setiabudhi No 229. Kota/Kabupaten, Kota Bandung. Kode Pos, 40154.</item>
+        <item>Jl. Raya Darmaga Kampus IPB Darmaga Bogor 16680Jawa Barat, Indonesia. Desa/Kelurahan, : MALASARI</item>
+        <item>Jl. Ganesa No.10, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132</item>
+        <item> Jl. Raya ITS, Sukolilo Surabaya 60111</item>
+        <item>Jl. Veteran No.10-11, Ketawanggede, Kec. Lowokwaru, Kota Malang, Jawa Timur 65145</item>
+        <item>Bulaksumur, Caturtunggal, Kec. Depok, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55281</item>
+        <item>Jl. Lingkar, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424</item>
+        <item>Jl. Ir. H. Djuanda No. 95 Ciputat, Kota Tangerang Selatan 15412</item>
+        <item>Jl. Mayjen Prof. Dr. Moestopo No.47, Pacar Kembang, Kec. Tambaksari, Kota SBY, Jawa Timur 60132</item>
+        <item>Blok, Jl. Pomad Gg. Kko No.24, RT.1/RW.7, Kalibata, Pancoran, South Jakarta City, Jakarta 12740</item>
+        <item>Jln. Ir. Soekarno Km. 21 Jatinangor, Kab. Sumedang, 45363</item>
+        <item>Jl. Majapahit No.62, Gomong, Kec. Selaparang, Kota Mataram, Nusa Tenggara Bar. 83115</item>
+        <item>Jl. Profesor DR. HR Boenyamin No.708, Dukuhbandong, Grendeng, Kec. Purwokerto Utara, Kabupaten Banyumas, Jawa Tengah 53122</item>
+    </string-array>
+
+    <string name="email_univ">Email</string>
+    <string-array name="data_email">
+        <item>sekuniv_upi@upi.edu</item>
+        <item>akademiksb@apps.ipb.ac.id</item>
+        <item>info@itb-ad.ac.id</item>
+        <item>intladmission@its.ac.id</item>
+        <item>rektorat@ub.ac.id</item>
+        <item>umugm@ugm.ac.id</item>
+        <item>penerimaan@ui.ac.id</item>
+        <item>pusatbahasa@apps.uinjkt.ac.id</item>
+        <item>adm@pkip.unair</item>
+        <item>rektor@live.undip.ac.id</item>
+        <item>studentsupport@unpad.ac.id</item>
+        <item>pcmc@unram.ac.id</item>
+        <item>info@unsoed.ac.id</item>
+    </string-array>
+
+    <string name="jumlah_fakultas">Jumlah Fakultas:</string>
+    <integer-array name="data_jumlah_fakultas">
+        <item>8</item>
+        <item>9</item>
+        <item>11</item>
+        <item>7</item>
+        <item>18</item>
+        <item>18</item>
+        <item>14</item>
+        <item>11</item>
+        <item>7</item>
+        <item>11</item>
+        <item>17</item>
+        <item>9</item>
+        <item>12</item>
+    </integer-array>
+    
+    <string-array name="data_name">
+        <item>Universitas Pendidikan Indonesia (UPI)</item>
+        <item>Institut Pertanian Bogor (IPB)</item>
+        <item>Institut Teknologi Bandung (ITB)</item>
+        <item>Institut Teknologi Sepuluh Nopember (ITS)</item>
+        <item>Universitas Brawijaya (UB)</item>
+        <item>Universitas Gajah Mada (UGM)</item>
+        <item>Universitas Indonesia (UI)</item>
+        <item>Universitas Islam Negeri (UIN)</item>
+        <item>Univeristas Airlangga (UNAIR)</item>
+        <item>Univesitas Diponegoro (UNDIP)</item>
+        <item>Univesitas Padjajaran (UNPAD)</item>
+        <item>Universitas Mataram (UNRAM)</item>
+        <item>Universitas Jendral Soedirman (UNSOED)</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Indonesia University of Education was established in 1954 as Teachers Education College (PTPG). It is in Bandung, Indonesia. Indonesia University of Education is a multi-campus university, with one main campus and several others. The main campus of is at Dr. Setiabudhi Street 229th, Bandung, Indonesia; other campuses are in Cibiru, Tasikmalaya, Sumedang, Purwakarta, and Serang.</item>
+        <item>The institute began as an agricultural school formed by the Dutch colonial regime in the early 20th century. After independence it was part of the University of Indonesia before becoming an independent institute on September 1, 1963. Prof. Dr. Arif Satria, S.P., M.Si. serves as its director.</item>
+        <item>Institut Teknologi Bandung is a dream campus for almost all students in Indonesia, especially those who want to continue their education in the field of engineering and science. It was the first engineering college in Indonesia that was established in 1920 under the name De Technische Hoogeschool te Bandung. To date, Institut Teknologi Bandung (ITB) has contributed to higher education in Indonesia for more than 100 years.</item>
+        <item>Institut Teknologi Sepuluh Nopember (ITS) is a world-class Legal Entity State University (PTNBH) that contributes to national independence and becomes a reference in education, research, community service as well as the development of innovations, especially those that support industry and maritime affairs. Institut Teknologi Sepuluh Nopember is attached to the history of the Republic of Indonesia struggle for independence.</item>
+        <item>Universitas Brawijaya (UB) was established by the President of the Republic of Indonesia through a wire no. 258/K/61 sent on July 11, 1961. The Brawijaya name derived from the title of the King of Majapahit, a great kingdom in Indonesia from 12th to 15th century. Later, UB transformed into a state university on January 5, 1963, following a Presidential Decree issued earlier in the same year. Today UB is one of the leading universities in Indonesia with more than 60.000 students in various vocational, bachelor, master, doctoral, professional, and medical specialist programs.</item>
+        <item>Universitas Gadjah Mada was born out of Indonesias revolutionary struggle for independence. Established in the early period of independence, UGM was appointed as the National Center for Science and Culture for the organization of national higher education.</item>
+        <item>UI is one of the world leading research universities or academic institutions that continues to pursue the highest achievements in terms of discovery, development and diffusion of knowledge regionally and globally. With its continuous achievements, UI is ranked as one of the best universities in Indonesia by global ranking agencies. With more than 400,000 alumni in a strong network, UI continues to play an important role at the national and global levels.</item>
+        <item>UIN Jakarta was established as a higher education institution that integrates general and religious sciences, producing cadres who are able to respond to the demands of society and changing times. UIN Jakarta was born from the establishment of Akademi Dinas Ilmu Agama (ADIA), June 1, 1957. ADIA was established by the Ministry of Religious Affairs to educate civil servants to become religious experts in various educational institutions throughout Indonesia and prepare a generation capable of bringing religion holistically.</item>
+        <item>Airlangga University (abbreviated as Unair or UA; Javanese: ꦈꦤꦶꦮ꦳ꦼꦂꦱꦶꦠꦱ꧀ꦄꦲꦶꦂꦭꦁꦒ) is a public university located in Surabaya, East Java. The university was founded on November 10, 1954 to coincide with the 9th Heroes Day. Based on rankings from QS World University Ranking 2021, Universitas Airlangga is ranked as the fourth best university in Indonesia."</item>
+        <item>Diponegoro University abbreviated as Undip is a public university in Indonesia located in Semarang, Central Java, Indonesia. Currently Undip has 11 Faculties and 2 Schools. Undip main campus is located in Tembalang area, and the other main campus is located in Pleburan area. Undip was established on January 9, 1957 as a private university and only received the status of a state university on January 9, 1960. The word Diponegoro is taken from Prince Diponegoro. Based on Government Regulation Number 52 of 2015, Undip was determined to be a Legal Entity State University.</item>
+        <item>Universitas Padjadjaran or known by the abbreviation Unpad is one of the state universities in Indonesia. Unpad was established on September 11, 1957, with a campus location in Bandung. Currently, Unpad has the status of a Legal Entity State University. Government Regulation No. 80/2014 on the Determination of Unpad as a Legal Entity State University was signed by the President of Indonesia, Susilo Bambang Yudhoyono, on October 17, 2014. After that, Government Regulation No. 51 Year 2015 on the Statute of Universitas Padjadjaran was signed by President Joko Widodo on July 22, 2015.</item>
+        <item>University of Mataram (UNRAM) is a university organized under the Ministry of National Education, located in Mataram City, West Nusa Tenggara Province. The process of its establishment from the formation of the State University Preparatory Committee in Mataram, chaired by the Governor of NTB Level I, namely R. Ar. Moh. Ruslan Tjakraningrat. Two proposals from this Preparatory Committee were the establishment of a Faculty of Economics, a Faculty of Animal Husbandry, and a Faculty that produces agronomists. Then, it came up with an alternative name for the university, namely Sangkarengan University or Mataram University.</item>
+        <item>Jenderal Soedirman University abbreviated as Unsoed) is a public university located in Purwokerto, Banyumas Regency, Central Java, Indonesia and was established on September 23, 1963. The university named after Jenderal Soedirman, the first commander-in-chief of the Indonesian Army during the country fight for independence to commemorate his service for the Indonesian nation. He was born in the Banyumas region.</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/upi</item>
+        <item>@drawable/ipb</item>
+        <item>@drawable/itb</item>
+        <item>@drawable/its</item>
+        <item>@drawable/ub</item>
+        <item>@drawable/ugm</item>
+        <item>@drawable/ui</item>
+        <item>@drawable/uin</item>
+        <item>@drawable/unair</item>
+        <item>@drawable/undip</item>
+        <item>@drawable/unpad</item>
+        <item>@drawable/unram</item>
+        <item>@drawable/unsoed</item>
+    </integer-array>
+</resources>
